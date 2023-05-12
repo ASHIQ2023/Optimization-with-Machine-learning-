@@ -6,8 +6,7 @@ Introduction<br>
 Installation<br>
 Usage<br>
 Examples<br>
-Contributing<br>
-License<br>
+
 
 # Introduction
 Delivery route optimization plays a important role in enhancing the efficiency of transportation activities. This repository provides a solution to the vehicle routing problem using OR-Tools, a powerful optimization library, and visualizes the optimized routes on an interactive map using Folium, a Python library for map visualization.
@@ -45,4 +44,5 @@ The script uses the OR-Tools library to solve the vehicle routing problem, optim
 The repository includes an example distance matrix file (distance.xlsx) and parcel demand data. You can use this example data to test the code and observe the optimized routes.<br>
 
 To run the example, follow the Installation and Usage instructions mentioned above.
+
 
